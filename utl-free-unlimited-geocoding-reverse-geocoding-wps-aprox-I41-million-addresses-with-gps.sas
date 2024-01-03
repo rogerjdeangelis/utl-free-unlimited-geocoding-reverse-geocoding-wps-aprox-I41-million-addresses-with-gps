@@ -6,6 +6,15 @@ github
 http://tinyurl.com/45rsxfwr
 https://github.com/rogerjdeangelis/utl-free-unlimited-geocoding-reverse-geocoding-wps-aprox-I41-million-addresses-with-gps
 
+Extended the links to two years                             
+                                                           
+adr_010opnnadavg_adr_lat_lon_csv                           
+https://1drv.ms/u/s!AovFHZtMPA-7giLjR1iigTUP41-Z?e=Mq1Hjx  
+                                                           
+Averaged lat lon                                           
+adr010nadavg.exe                                           
+https://1drv.ms/u/s!AovFHZtMPA-7giWGIcholzrbDLUq?e=KNXJFf  
+                                                          
 Download csv, unzip and convert csv to wps table with 141 million US addresses (1.07gb gzipped win10 1,159,132,788 bytes)
   https://1drv.ms/u/s!AovFHZtMPA-7gh25NUe6pg0OW68k?e=kfZLOe
 Since the file is an self extracting(exe) 7-zip file, you may wand to download using incognito
