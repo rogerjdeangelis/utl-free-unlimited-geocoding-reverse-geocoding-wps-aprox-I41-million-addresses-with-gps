@@ -13,6 +13,18 @@ Free unlimited geocoding reverse geocoding wps aprox I41 million addresses with 
     Since the file is an self extracting(exe) 7-zip file, you may wand to download using incognito
     One version of the csv may have lat and lon reversed?
 
+    Extened the links to two years                             
+                                                           
+    adr_010opnnadavg_adr_lat_lon_csv                           
+    https://1drv.ms/u/s!AovFHZtMPA-7giLjR1iigTUP41-Z?e=Mq1Hjx  
+                                                           
+    Averaged lat lon                                           
+    adr010nadavg.exe                                           
+   https://1drv.ms/u/s!AovFHZtMPA-7giWGIcholzrbDLUq?e=KNXJFf  
+                                                           
+
+    
+
       SOLUTIONS
 
           1 wps free geocoding (address to geocode)
